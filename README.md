@@ -29,6 +29,6 @@ QR-код с текстом "tree"
 
 <img src="./docs/qr_tree.png" />
 
-QR-код с текстом "cookies"
+QR-код с текстом "Печеньки"
 
 <img src="./docs/qr_cookies.png" />
