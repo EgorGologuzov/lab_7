@@ -18,13 +18,17 @@
 ### QR-коды для тестирования
 
 QR-код с текстом "house"
+
 <img src="./docs/qr_house.png" />
 
 QR-код с текстом "car"
+
 <img src="./docs/qr_car.png" />
 
 QR-код с текстом "tree"
+
 <img src="./docs/qr_tree.png" />
 
 QR-код с текстом "cookies"
+
 <img src="./docs/qr_cookies.png" />
